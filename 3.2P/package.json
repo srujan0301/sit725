@@ -4,11 +4,12 @@
   "description": "SIT725 Week 3 Task 3.2P",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js"
-  },
+  "start": "node server.js"
+},
+
   "repository": {
     "type": "git",
-    "url": "https://github.com/srujan0301/sit725.git"
+    "url": "git+https://github.com/srujan0301/sit725.git"
   },
   "keywords": [
     "Nodejs",
@@ -25,6 +26,6 @@
   },
   "homepage": "https://github.com/srujan0301/sit725#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.21.2"
   }
 }
