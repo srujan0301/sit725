@@ -1,13 +1,19 @@
-# SIT725 Task 1.4P - Introduction to Programming
+SIT725 Week 3 Practical.
 
-This folder contains the JavaScript and HTML files for Task 1.4P.
+It showcases how to use Materialize CSS components, modals, cards, and dynamic content rendering using jQuery.
 
-## Features:
-- A button that changes text randomly when clicked.
+Features:-
 
-## Instructions:
-1. Open `index.html` in a browser.
-2. Click the button to change the text dynamically.
+Responsive UI using Materialize CSS
 
-## Author:
-- Srujan
+Express server setup on port 3000
+
+Click Me button with interactive alert
+
+Modal form with user input capture
+
+Dynamically generated kitten cards using jQuery
+
+To run:
+npm install for modules
+npm start to run
